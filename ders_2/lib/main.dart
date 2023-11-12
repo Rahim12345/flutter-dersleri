@@ -48,7 +48,7 @@ class _MyAppState extends State<MyApp> {
                   onPressed: () {
                     _incrementNumber();
                   },
-                  child: Icon(Icons.add)),
+                  child: const Icon(Icons.add)),
             ],
           ),
         ),
